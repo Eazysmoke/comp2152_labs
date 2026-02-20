@@ -1,0 +1,6 @@
+2026-02-20 03:48:25,ping,google.com,12.5,Success
+2026-02-20 03:50:25,nslookup,github.com,140.82.121.4,Success
+2026-02-20 03:52:25,ifconfig,en0,aa:bb:cc:dd:ee:ff / 192.168.1.10,Captured
+2026-02-19 23:10:38,ping,google.com,28.184,Success
+2026-02-19 23:10:49,nslookup,github.com,140.82.113.4,Success
+2026-02-19 23:10:54,ifconfig,en0,ca:6f:29:8c:ed:1e / 192.168.1.254,Captured
